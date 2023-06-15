@@ -1,0 +1,10 @@
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\bin\Debug\Sinema_Büfe_Satis.exe.config
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\bin\Debug\Sinema_Büfe_Satis.exe
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\bin\Debug\Sinema_Büfe_Satis.pdb
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.csproj.AssemblyReference.cache
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.Form1.resources
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.Properties.Resources.resources
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.csproj.GenerateResource.cache
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.exe
+C:\Users\sedat\source\repos\Sinema_Büfe_Satis\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.pdb
